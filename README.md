@@ -1,4 +1,4 @@
-# Testes E2E - Kanban
+# Testes E2E - Cypress.io
 
 Este repositório contém **testes automatizados end-to-end** utilizando [Cypress](https://www.cypress.io/) para validar as funcionalidades principais do site:
 
@@ -19,16 +19,27 @@ O objetivo é verificar o funcionamento correto de fluxos essenciais do quadro K
 ##  Estrutura do Projeto
 
 kanban-tests/
+
 ├── cypress/
+
 │ ├── e2e/
+
 │ │ └── kanban.cy.js # Arquivo principal com os testes
+
 │ ├── fixtures/
+
 │ │ └── testData.json # Dados estáticos para os testes
+
 │ ├── support/
+
 │ │ ├── commands.js # Comandos customizados (futuro)
+
 │ │ └── e2e.js # Configuração global do Cypress
+
 ├── cypress.config.js # Configuração do Cypress
+
 ├── package.json # Dependências e scripts
+
 ├── README.md # Documentação do projeto
 
 ##  Pré-requisitos
