@@ -4,7 +4,7 @@ Este repositório contém **testes automatizados end-to-end** utilizando [Cypres
 
 🔗 **https://kanban-dusky-five.vercel.app/**
 
-O objetivo é verificar o funcionamento correto de fluxos essenciais do quadro Kanban, como criação, movimentação e exclusão de tarefas, além da adição de tags.
+O objetivo é verificar o funcionamento correto de fluxos essenciais do quadro Kanban, como criação, movimentação e adição de tags.
 
 
 ---
